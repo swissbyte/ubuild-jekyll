@@ -8,13 +8,13 @@ page_sections:
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
   - link: "/"
-    link_text: Ubuild
-  - link: "#swap"
-    link_text: Swap
-  - link: "#customize"
-    link_text: Customize
-  - link: "#responsive"
-    link_text: Responsive
+    link_text: HOME
+  - link: "/projects"
+    link_text: PROJECTS
+  - link: "/blog"
+    link_text: Blog
+  - link: "/contact"
+    link_text: Contact
   - link: "#blocks"
     link_text: Blocks
   cta:
